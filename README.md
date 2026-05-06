@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-# Predicting-Insurance-Claim-Amounts
-=======
 # Predicting Insurance Claim Amounts
 
 A machine learning project that predicts annual medical insurance claim amounts using personal, medical, and policy-related information.  
@@ -208,4 +205,3 @@ streamlit run app.py
 
 This project demonstrates how machine learning can be used in the insurance domain to estimate medical claim amounts.  
 By combining data preprocessing, exploratory data analysis, Linear Regression modeling, and an interactive Streamlit dashboard, the project provides a complete end-to-end solution for insurance claim prediction.
->>>>>>> Stashed changes
