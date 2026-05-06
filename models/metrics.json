@@ -1,0 +1,9 @@
+{
+    "MAE": 1777.91,
+    "RMSE": 2856.36,
+    "R2_Score": 0.1709,
+    "Training_Rows": 80000,
+    "Testing_Rows": 20000,
+    "Target": "annual_medical_cost",
+    "Model": "Linear Regression"
+}

@@ -1,0 +1,109 @@
+{
+    "sex": [
+        "Female",
+        "Male",
+        "Other"
+    ],
+    "region": [
+        "Central",
+        "East",
+        "North",
+        "South",
+        "West"
+    ],
+    "urban_rural": [
+        "Rural",
+        "Suburban",
+        "Urban"
+    ],
+    "education": [
+        "Bachelors",
+        "Doctorate",
+        "HS",
+        "Masters",
+        "No HS",
+        "Some College"
+    ],
+    "smoker": [
+        "Current",
+        "Former",
+        "Never"
+    ],
+    "plan_type": [
+        "EPO",
+        "HMO",
+        "POS",
+        "PPO"
+    ],
+    "network_tier": [
+        "Bronze",
+        "Gold",
+        "Platinum",
+        "Silver"
+    ],
+    "age": {
+        "min": 0.0,
+        "max": 100.0,
+        "median": 48.0
+    },
+    "income": {
+        "min": 1100.0,
+        "max": 1061800.0,
+        "median": 36200.0
+    },
+    "bmi": {
+        "min": 12.0,
+        "max": 50.4,
+        "median": 27.0
+    },
+    "visits_last_year": {
+        "min": 0.0,
+        "max": 25.0,
+        "median": 2.0
+    },
+    "hospitalizations_last_3yrs": {
+        "min": 0.0,
+        "max": 3.0,
+        "median": 0.0
+    },
+    "medication_count": {
+        "min": 0.0,
+        "max": 11.0,
+        "median": 1.0
+    },
+    "deductible": {
+        "min": 500.0,
+        "max": 5000.0,
+        "median": 1000.0
+    },
+    "copay": {
+        "min": 10.0,
+        "max": 50.0,
+        "median": 20.0
+    },
+    "risk_score": {
+        "min": 0.0,
+        "max": 1.0,
+        "median": 0.5055
+    },
+    "chronic_count": {
+        "min": 0.0,
+        "max": 6.0,
+        "median": 1.0
+    },
+    "hypertension": {
+        "min": 0.0,
+        "max": 1.0,
+        "median": 0.0
+    },
+    "diabetes": {
+        "min": 0.0,
+        "max": 1.0,
+        "median": 0.0
+    },
+    "had_major_procedure": {
+        "min": 0.0,
+        "max": 1.0,
+        "median": 0.0
+    }
+}
